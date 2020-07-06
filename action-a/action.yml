@@ -12,7 +12,7 @@ inputs:
     using: "docker"
     image: "Dockerfile"
   
-  branding
+  branding:
     icon: "mic"
     color: "purple"
      
